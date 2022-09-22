@@ -21,7 +21,7 @@
 		<basicproject.version>0.0.1</basicproject.version>
 		<jdbcDriver.groupId>org.postgresql</jdbcDriver.groupId>
 		<jdbcDriver.artifactId>postgresql</jdbcDriver.artifactId>
-		<jdbcDriver.version>9.6</jdbcDriver.version>
+		<jdbcDriver.version>42.3.7</jdbcDriver.version>
 	</properties>
 
 	<dependencyManagement>
